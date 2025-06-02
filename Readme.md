@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Readme.md
 # 🏠 Real Estate Price Prediction
 
 This project implements a **Multiple Linear Regression** model to predict housing prices based on various features.
@@ -108,6 +107,4 @@ The model achieves a reasonable accuracy in predicting housing prices. Detailed 
 For any queries or suggestions:
 
 * **LinkedIn**: [Saumya Sundaram](https://www.linkedin.com/in/saumya-sundaram-data-analyst-engineer/)
-=======
 
->>>>>>> 4ec1c3e968426a7caf31cc29bcae98409a82bddd:Readme
